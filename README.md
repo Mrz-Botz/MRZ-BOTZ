@@ -15,9 +15,13 @@
 
 <br>
 
-### GitHub Overview
+## 📈 GitHub Stats
 
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mrz-Bots&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+<a href="https://t.me/XBOTSUPPORTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARUTO&theme=radical" />
+</a>
+<a href="https://t.me/XBOTSUPPORTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naruto&show_icons=true&theme=radical" alt="NARUTO's GitHub Stats" />
 </a>
 
 ### Activity Graph
