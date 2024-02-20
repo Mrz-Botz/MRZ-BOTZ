@@ -16,18 +16,12 @@
 <br>
 
 ## 📈 GitHub Stats
-
-<a href="https://t.me/XBOTSUPPORTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrz-Bots&theme=radical" />
-</a>
-<a href="https://t.me/XBOTSUPPORTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrs-bots&show_icons=true&theme=radical" alt="NARUTO's GitHub Stats" />
-</a>
+ Nothing 😆
 
 ### Activity Graph
 
 <a href="https://github.com/Infamous-Hydra/github-readme-activity-graph">
-  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Codeflix-bots&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
+  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mrz-bots&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
 </a>
 
 ### 💻 Tech Stack
