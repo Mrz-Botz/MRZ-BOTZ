@@ -21,7 +21,7 @@
 ### Activity Graph
 
 <a href="https://github.com/Infamous-Hydra/github-readme-activity-graph">
-  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mrz-bots&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
+  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MRZ-BOTZ&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
 </a>
 
 ### 💻 Tech Stack
