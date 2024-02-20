@@ -18,10 +18,10 @@
 ## 📈 GitHub Stats
 
 <a href="https://t.me/XBOTSUPPORTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARUTO&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrz-Bots&theme=radical" />
 </a>
 <a href="https://t.me/XBOTSUPPORTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naruto&show_icons=true&theme=radical" alt="NARUTO's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrs-bots&show_icons=true&theme=radical" alt="NARUTO's GitHub Stats" />
 </a>
 
 ### Activity Graph
